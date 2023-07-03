@@ -1,0 +1,10 @@
+
+=== Mon Jun 26 18:34:08 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.8.6
+  com.unity.terrain-tools@4.0.3
+  com.unity.visualeffectgraph@12.1.7
